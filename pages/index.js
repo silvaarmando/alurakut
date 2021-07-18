@@ -9,8 +9,6 @@ import {
 } from "../src/components/ProfileRelations";
 
 function ProfileSideBar(props) {
-  console.log(props)
-
   return (
     <Box>
       <img
