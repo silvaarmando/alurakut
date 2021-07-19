@@ -32,7 +32,7 @@
   Technologies
   </a>&nbsp;&nbsp;&nbsp;
   <a
-    href="#About-me"
+    href="#About me"
   >
   About me
   </a>
@@ -40,3 +40,13 @@
 
 <br
 />
+
+## Building the project
+
+## Screens
+
+## Layout
+
+## Technologies
+
+## About me
