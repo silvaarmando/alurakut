@@ -6,6 +6,12 @@
   >
 </h1>
 
+<h2
+  align="center"
+>
+  Application created in the 3rd edition of Immersion React da <a href="">Alura</a> with educators <a href="https://github.com/omariosouto">Mario Souto</a> and <a href="https://github.com/juunegreiros">Julia Negreiros</a>
+</h2>
+
 <br
 />
 <p
