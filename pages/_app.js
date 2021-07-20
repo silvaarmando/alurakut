@@ -8,7 +8,7 @@ import {
 } from '../src/lib/AlurakutCommons'
 
 const GlobalStyle = createGlobalStyle`
-  /** Reset CSS (Necolas Reset CSS ❤)*/
+  /** Reset CSS (Necolas Reset CS)*/
   * {
     margin: 0;
     padding: 0;
