@@ -2,6 +2,7 @@
   align="center"
 >
   <img
+    width="350px"
     src="./readmeScreens/logo.svg"
   >
 </h1>
