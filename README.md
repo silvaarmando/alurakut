@@ -1,17 +1,17 @@
-<h1
+<h3
   align="center"
 >
   <img
-    width="350px"
+    width="168em"
     src="./readmeScreens/logo.svg"
   >
-</h1>
+</h3>
 
-<h2
+<h3
   align="center"
 >
   Application created in the 3rd edition of Immersion React da <a href="">Alura</a> with educators <a href="https://github.com/omariosouto">Mario Souto</a>, <a href="https://github.com/juunegreiros">Juliana Negreiros</a> and <a href="https://github.com/peas">Paulo Silveira</a>
-</h2>
+</h3>
 
 <br
 />
