@@ -2,7 +2,7 @@
   align="center"
 >
   <img
-    width="168em"
+    width="180em"
     src="./readmeScreens/logo.svg"
   >
 </h3>
